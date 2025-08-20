@@ -33,6 +33,10 @@ Task/
 ```
 
 ---
+## 🖼️ Screenshots
+
+![Homepage](./src/assets/image.png)
+
 
 ## Setup Instructions
 
